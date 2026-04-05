@@ -1,32 +1,43 @@
-# Hello there! 👋 
-### Embedded Systems Engineer
+## 🚀 Embedded Systems Engineer  
 
-[cite_start]I am a final-year Computer Science student specializing in embedded systems, firmware development, and Embedded Linux. [cite_start]I enjoy bridging the gap between hardware and software, from writing SPI drivers to automating kernel builds with CI/CD.
+Final-year Computer Science student specializing in **embedded systems, firmware development, and Embedded Linux**.  
 
----
-
-## 🛠 Tech Stack & Skills
-
-### 🖥️ Embedded & Low-Level
-* [cite_start]**Languages:** C (driver development, real-time systems, low-level programming), Assembly x86, Python, and Bash scripting.
-* [cite_start]**Linux:** Kernel builds, Device Tree configuration, and system-level debugging.
-* [cite_start]**Protocols:** SPI, I2C, UART, and TCP/IP fundamentals.
-* [cite_start]**Tools:** Git, GitHub Actions (CI/CD), and firmware validation tools.
+I focus on building reliable, low-level software that connects hardware and software, from writing embedded systems to automating Linux kernel builds with CI/CD pipelines.
 
 ---
 
-## 🏎️ Beyond the Code
-When I'm not debugging firmware or configuring Device Trees, you can find me:
-* **Motorsports:** A huge fan of **Formula 1**. I love the intersection of extreme engineering and data-driven performance.
-* **Music:** My background track while I'm deep in the terminal.
-* **Gaming & Movies:** I enjoy exploring virtual worlds, technical gameplay, and watching movies.
+## 🛠 Tech Stack  
+
+### 🖥️ Embedded & Low-Level  
+- **Languages:** C (drivers, real-time systems, low-level), Python, Bash, Assembly (x86)  
+- **Embedded Linux:** Kernel configuration, Device Trees, cross-compilation, system debugging  
+- **Protocols:** SPI, I2C, UART, TCP/IP basics  
+- **Tools:** Git, GitHub Actions (CI/CD), debugging & firmware validation tools  
 
 ---
 
-## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=lionerik17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionerik17&layout=compact&theme=radical)
+## 🔧 What I Work On  
+- Embedded systems development  
+- Linux kernel builds & customization  
+- Driver development (SPI, I2C, peripherals)  
+- Hardware-software integration  
+- Build automation & CI/CD for embedded systems  
 
 ---
 
-[cite_start]*"Building reliable and secure firmware, one register at a time."*
+## 🏎️ Beyond the Code  
+- 🏁 **Motorsports:** Passionate about Formula 1 and engineering-driven performance  
+- 🎧 **Music:** I enjoy all kinds of music, with a preference for heavy metal  
+- 🎮 **Gaming & Movies:** Interested in technical gameplay and immersive worlds  
+
+---
+
+## 📌 Current Focus  
+- Improving Embedded Linux expertise  
+- Writing production-quality drivers  
+- Exploring performance optimization & low-level debugging  
+
+---
+
+## 💡 Philosophy  
+*"Building reliable and secure firmware, one register at a time."*
