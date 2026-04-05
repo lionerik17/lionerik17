@@ -1,4 +1,4 @@
-## 🚀 Embedded Systems Engineer  
+# Hello there! 👋
 
 Final-year Computer Science student specializing in **embedded systems, firmware development, and Embedded Linux**.  
 
