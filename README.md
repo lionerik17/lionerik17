@@ -1,43 +1,54 @@
 # Hello there! 👋
 
-Final-year Computer Science student specializing in **embedded systems, firmware development, and Embedded Linux**.  
+Final-year Computer Science student specializing in **embedded systems, firmware development, and Embedded Linux**.
 
-I focus on building reliable, low-level software that connects hardware and software, from writing embedded systems to automating Linux kernel builds with CI/CD pipelines.
-
----
-
-## 🛠 Tech Stack  
-
-### 🖥️ Embedded & Low-Level  
-- **Languages:** C (drivers, real-time systems, low-level), Python, Bash, Assembly (x86)  
-- **Embedded Linux:** Kernel configuration, Device Trees, cross-compilation, system debugging  
-- **Protocols:** SPI, I2C, UART, TCP/IP basics  
-- **Tools:** Git, GitHub Actions (CI/CD), debugging & firmware validation tools  
+I focus on building low-level, hardware-near software — from firmware for microcontroller systems to Linux-based embedded workflows involving kernel configuration, device trees, and automated build systems.
 
 ---
 
-## 🔧 What I Work On  
-- Embedded systems development  
-- Linux kernel builds & customization  
-- Driver development (SPI, I2C, peripherals)  
-- Hardware-software integration  
-- Build automation & CI/CD for embedded systems  
+## 🛠 Tech Stack
+
+### 🖥️ Embedded & Low-Level Systems
+- **Languages:** C (embedded, drivers, real-time systems), Python, Bash, Assembly (x86 basics)
+- **Embedded Linux:** Kernel configuration, Device Tree development, cross-compilation, system-level debugging
+- **Firmware Development:** Interrupt-driven and event-driven embedded design, hardware–software integration
+- **Protocols:** SPI, I2C, UART, BLE basics, TCP/IP fundamentals
 
 ---
 
-## 🏎️ Beyond the Code  
-- 🏁 **Motorsports:** Passionate about Formula 1 and engineering-driven performance  
-- 🎧 **Music:** I enjoy all kinds of music, with a preference for heavy metal  
-- 🎮 **Gaming & Movies:** Interested in technical gameplay and immersive worlds  
+## 🔧 Core Focus Areas
+- Embedded firmware development for microcontroller-based systems
+- Linux-based embedded system development and debugging
+- Driver development (SPI, I2C, peripheral interfacing)
+- Real-time and event-driven system design
+- Build automation and CI/CD pipelines for embedded systems
+- System-level debugging (memory, processes, peripherals)
 
 ---
 
-## 📌 Current Focus  
-- Improving Embedded Linux expertise  
-- Writing production-quality drivers  
-- Exploring performance optimization & low-level debugging  
+## 🚀 What I Work On
+- Designing and implementing embedded firmware in C
+- Developing and debugging device drivers
+- Working with Embedded Linux systems (kernel, device tree, boot flow)
+- Hardware–software integration for resource-constrained systems
+- Automating builds and testing using CI/CD pipelines (GitHub Actions)
 
 ---
 
-## 💡 Philosophy  
-*"Building reliable and secure firmware, one register at a time."*
+## 📌 Current Focus
+- Strengthening Embedded Linux (kernel internals, debugging, boot process)
+- Writing production-quality embedded drivers in C
+- Improving system-level debugging and performance analysis skills
+- Building more end-to-end embedded projects (hardware → firmware → Linux)
+
+---
+
+## 🏎️ Beyond the Code
+- 🏁 Motorsports enthusiast (Formula 1 engineering and strategy)
+- 🎧 Music: heavy metal and instrumental focus work playlists
+- 🎮 Gaming: interest in systems-driven and physics-based gameplay
+
+---
+
+## 💡 Philosophy
+> "Reliable firmware is built where software meets hardware — at the register level."
